@@ -1,4 +1,4 @@
-# Button Roles
+ADMIN# Button Roles
 
 Welcome to the documentation for Button Roles, one of the exciting features in our Discord bot! With Button Roles, you
 can allow your members to get roles by clicking buttons below messages, making it easier for them to personalize their
